@@ -1500,3 +1500,55 @@ body {
         padding-top: 120px;
     }
 }
+
+.working_system {
+    background: #000000;
+    color: #ffffff;
+}
+
+.working_system__content {
+    margin: 180px auto 70px;
+}
+
+.working_system__title {
+    font-size: 48px;
+    margin: 15px 0;
+}
+
+.working_system__btn {
+    background: #17D065;
+    border-radius: 40px;
+    font-weight: bold;
+    font-size: 24px;
+    color: #FFFFFF;
+    padding: 22px 48px;
+    text-decoration: none;
+    display: inline-block;
+    margin: 70px 0;
+    max-width: 100%;
+    width: 100%;
+    text-align: center;
+}
+
+.what_you_get {
+    background: #242424;
+    color: #ffffff;
+    padding: 100px 0;
+}
+
+.what_you_get__main_title {
+    font-size: 48px;
+    text-align: center;
+}
+
+.what_you_get__content {
+    margin: 100px 0;
+}
+
+.what_you_get__title {
+    margin: 15px 0;
+}
+
+.what_you_get__subtitle {
+    color: grey;
+}
